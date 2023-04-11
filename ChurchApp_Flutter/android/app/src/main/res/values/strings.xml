@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChurchApp</string>
+
+<string name="facebook_app_id">404862197379020</string>
+<string name="fb_login_protocol_scheme">fb404862197379020</string>
+
+
+<string name="Admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+<string name="flutter_downloader_notification_started">Download started</string>
+<string name="flutter_downloader_notification_in_progress">Download in progress</string>
+<string name="flutter_downloader_notification_canceled">Download canceled</string>
+<string name="flutter_downloader_notification_failed">Download failed</string>
+<string name="flutter_downloader_notification_complete">Download complete</string>
+<string name="flutter_downloader_notification_paused">Download paused</string>
+
+</resources>

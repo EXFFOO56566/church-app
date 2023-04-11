@@ -1,0 +1,5 @@
+UPDATED THE PROJECT TO FLUTTER 2
+- NO CHANGES ON THE WEB FILES
+- IF YOU HAVE DONE MAJOR CHANGES ON THE FLUTTER PROJECT, SEND US A MAIL TO ADVISE ON HOW YOU CAN UPDATE YOUR PROJECT.
+- THE PROJECT NOTES SECTION NOW DEPENDS ON FlutterQuill, We decided to migrate to FlutterQuill, since the plugin Zephyr that the project depends on have not been updated for  
+  a while and is not compatible with Flutter2. 
